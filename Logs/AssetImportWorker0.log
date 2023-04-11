@@ -1,0 +1,422 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.3f1 (76626098c1c4) revision 7758432'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 22621.1105; Version 2009; 64bit' Language: 'ko' Physical Memory: 7986 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/unitypre/FPSGame
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+4316
+Successfully changed project path to: C:/unitypre/FPSGame
+C:/unitypre/FPSGame
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 124.10 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.3f1 (76626098c1c4)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/unitypre/FPSGame/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 620 (ID=0x3ea0)
+    Vendor:   
+    VRAM:     3993 MB
+    Driver:   25.20.100.6577
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56076
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005042 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 103.67 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.017 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.015290 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\unitypre\FPSGame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\unitypre\FPSGame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.41 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.800 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.19 seconds
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3133 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 112.2 MB.
+System memory in use after: 112.4 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 3569.
+Total: 4.224000 ms (FindLiveObjects: 1.097000 ms CreateObjectMapping: 0.370300 ms MarkObjects: 2.638700 ms  DeleteObjects: 0.116100 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Easy FPS/MuzzelFlash/MuzzlePrefabs
+  artifactKey: Guid(b0c90e91391ee435e907cfd236887dff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Easy FPS/MuzzelFlash/MuzzlePrefabs using Guid(b0c90e91391ee435e907cfd236887dff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71047523d0f341d65b739e05e1a6b77e') in 0.015465 seconds
+  Import took 0.022399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000396 seconds.
+  path: Assets/Easy FPS/MuzzelFlash/MuzzlePrefabs/muzzelFlash 01.prefab
+  artifactKey: Guid(51b76f616384d4946bed4ecc9a6c2c3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Easy FPS/MuzzelFlash/MuzzlePrefabs/muzzelFlash 01.prefab using Guid(51b76f616384d4946bed4ecc9a6c2c3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41f45268a74f997859f1781fe4ccde5d') in 0.181812 seconds
+  Import took 0.188054 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.548255 seconds.
+  path: Assets/Easy FPS/MuzzelFlash/MuzzlePrefabs/muzzelFlash 02.prefab
+  artifactKey: Guid(487eef9aff9d0f543836d5af5ab26430) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Easy FPS/MuzzelFlash/MuzzlePrefabs/muzzelFlash 02.prefab using Guid(487eef9aff9d0f543836d5af5ab26430) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25a127ec84d52347f2e8ef7f1400ccb6') in 0.029790 seconds
+  Import took 0.036021 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.054393 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\unitypre\FPSGame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\unitypre\FPSGame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.93 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.451 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 6.22 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3127 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 115.1 MB.
+System memory in use after: 115.4 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3580.
+Total: 10.971700 ms (FindLiveObjects: 3.041600 ms CreateObjectMapping: 0.776700 ms MarkObjects: 7.085600 ms  DeleteObjects: 0.063800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.016445 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\unitypre\FPSGame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\unitypre\FPSGame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.475 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.67 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3127 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 115.2 MB.
+System memory in use after: 115.4 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3583.
+Total: 4.216100 ms (FindLiveObjects: 0.821200 ms CreateObjectMapping: 0.389500 ms MarkObjects: 2.968800 ms  DeleteObjects: 0.034600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.022691 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\unitypre\FPSGame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\unitypre\FPSGame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.67 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.567 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.04 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3127 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 115.2 MB.
+System memory in use after: 115.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3586.
+Total: 9.289900 ms (FindLiveObjects: 1.044200 ms CreateObjectMapping: 0.498500 ms MarkObjects: 7.623400 ms  DeleteObjects: 0.109500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.024437 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\unitypre\FPSGame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\unitypre\FPSGame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.747 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3127 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 115.2 MB.
+System memory in use after: 115.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3589.
+Total: 3.479100 ms (FindLiveObjects: 0.714100 ms CreateObjectMapping: 0.398200 ms MarkObjects: 2.307900 ms  DeleteObjects: 0.057500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.033261 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\unitypre\FPSGame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\unitypre\FPSGame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.574 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3127 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 115.2 MB.
+System memory in use after: 115.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3592.
+Total: 2.821800 ms (FindLiveObjects: 0.360300 ms CreateObjectMapping: 0.258800 ms MarkObjects: 2.153300 ms  DeleteObjects: 0.047100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1503.226610 seconds.
+  path: Assets/frag_grenade_dm51a1/prefab/DM51A1.prefab
+  artifactKey: Guid(e889f3b0fa9bf2e4b87b0bd49cd501f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/frag_grenade_dm51a1/prefab/DM51A1.prefab using Guid(e889f3b0fa9bf2e4b87b0bd49cd501f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1685b6bc594c03d1786ab633187fbd80') in 0.399361 seconds
+  Import took 0.412516 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.167326 seconds.
+  path: Assets/Prefabs/Bomb.prefab
+  artifactKey: Guid(be47a66ea9c43e24d82be6148b35de4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Bomb.prefab using Guid(be47a66ea9c43e24d82be6148b35de4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2f73b709cfc56be9c879bb615323a98') in 0.091625 seconds
+  Import took 0.098878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020789 seconds.
+  path: Assets/Prefabs/Bomb.prefab
+  artifactKey: Guid(be47a66ea9c43e24d82be6148b35de4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Bomb.prefab using Guid(be47a66ea9c43e24d82be6148b35de4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2f73b709cfc56be9c879bb615323a98') in 0.023050 seconds
+  Import took 0.034911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.796516 seconds.
+  path: Assets/frag_grenade_dm51a1/prefab
+  artifactKey: Guid(a0d8e0eb4df55de449460e31c7571539) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/frag_grenade_dm51a1/prefab using Guid(a0d8e0eb4df55de449460e31c7571539) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94e3985d3e0f8d79f4cbe745b344b462') in 0.020727 seconds
+  Import took 0.029728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.340465 seconds.
+  path: Assets/frag_grenade_dm51a1/prefab/models/dm51_a1.FBX
+  artifactKey: Guid(65e4cf44f639d1a408f9a9ce2a310a20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/frag_grenade_dm51a1/prefab/models/dm51_a1.FBX using Guid(65e4cf44f639d1a408f9a9ce2a310a20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef93b8b219cc6b96019ddf49d581affb') in 0.291262 seconds
+  Import took 0.299528 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 77.534957 seconds.
+  path: Assets/Prefabs/Bomb.prefab
+  artifactKey: Guid(be47a66ea9c43e24d82be6148b35de4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Bomb.prefab using Guid(be47a66ea9c43e24d82be6148b35de4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c8b533f73d2d8ab5b9ad8213a7f6188') in 0.032331 seconds
+  Import took 0.041830 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.102717 seconds.
+  path: Assets/Prefabs/Bomb.prefab
+  artifactKey: Guid(be47a66ea9c43e24d82be6148b35de4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Bomb.prefab using Guid(be47a66ea9c43e24d82be6148b35de4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c8b533f73d2d8ab5b9ad8213a7f6188') in 0.024193 seconds
+  Import took 0.033349 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 65.109309 seconds.
+  path: Assets/Scripts/BombAction.cs
+  artifactKey: Guid(5375af96243ab4c49b3a4120c34d519e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/BombAction.cs using Guid(5375af96243ab4c49b3a4120c34d519e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff95c70e5b68f5934729bf6d52d2735e') in 0.047591 seconds
+  Import took 0.054759 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.017750 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\unitypre\FPSGame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\unitypre\FPSGame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.733 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.07 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3127 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 116.2 MB.
+System memory in use after: 116.4 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 3601.
+Total: 4.132800 ms (FindLiveObjects: 0.619100 ms CreateObjectMapping: 0.350000 ms MarkObjects: 3.126300 ms  DeleteObjects: 0.036000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 305.460087 seconds.
+  path: Assets/Scripts/BombAction.cs
+  artifactKey: Guid(5375af96243ab4c49b3a4120c34d519e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/BombAction.cs using Guid(5375af96243ab4c49b3a4120c34d519e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61b6703238815d89215a634796e62998') in 0.015819 seconds
+  Import took 0.024900 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.378931 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a85d489f0bbbbbcc37b2835b293d2dfd') in 0.051623 seconds
+  Import took 0.062289 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.015159 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\unitypre\FPSGame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\unitypre\FPSGame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.566 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.03 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3127 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 116.2 MB.
+System memory in use after: 116.5 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 3604.
+Total: 3.371700 ms (FindLiveObjects: 0.528700 ms CreateObjectMapping: 0.277700 ms MarkObjects: 2.509200 ms  DeleteObjects: 0.054100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 240.957749 seconds.
+  path: Assets/Prefabs/Bomb.prefab
+  artifactKey: Guid(be47a66ea9c43e24d82be6148b35de4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Bomb.prefab using Guid(be47a66ea9c43e24d82be6148b35de4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9e24600a610844fa4606d0cbef26893') in 0.096110 seconds
+  Import took 0.105525 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.023641 seconds.
+  path: Assets/Prefabs/Bomb.prefab
+  artifactKey: Guid(be47a66ea9c43e24d82be6148b35de4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Bomb.prefab using Guid(be47a66ea9c43e24d82be6148b35de4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9e24600a610844fa4606d0cbef26893') in 0.026283 seconds
+  Import took 0.034487 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.017732 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\unitypre\FPSGame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\unitypre\FPSGame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.639 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.69 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3127 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 116.2 MB.
+System memory in use after: 116.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3608.
+Total: 3.518300 ms (FindLiveObjects: 0.436700 ms CreateObjectMapping: 0.325500 ms MarkObjects: 2.722000 ms  DeleteObjects: 0.032400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.336741 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\unitypre\FPSGame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\unitypre\FPSGame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.23 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  9.200 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.19 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3127 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 116.2 MB.
+System memory in use after: 116.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3611.
+Total: 9.748000 ms (FindLiveObjects: 1.068300 ms CreateObjectMapping: 0.601000 ms MarkObjects: 7.898800 ms  DeleteObjects: 0.169600 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
